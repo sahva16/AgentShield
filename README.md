@@ -116,6 +116,20 @@ python main.py
 - Machine learning-based threat detection
 - Cloud log storage
 
+## Project Goal
+
+This project was built to simulate how modern cybersecurity tools:
+
+- Monitor endpoint activity
+- Detect abnormal behavior
+- Generate risk-based insights
+
+It demonstrates foundational concepts used in:
+
+- Endpoint Detection & Response (EDR)
+- Security Information and Event Management (SIEM)
+- Behavioral threat analytics
+
 ## License
 
 This project is intended for educational and learning purposes.
