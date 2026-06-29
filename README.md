@@ -33,15 +33,15 @@ The system acts as an AI security agent that:
 ## Project Structure
 
 AgentShield/
-│
-├── main.py
-├── endpoint.py
-├── agent.py
-├── detector.py
-├── logger.py
-├── analyzer.py
-├── activity.log
-└── README.md
+
+── main.py
+── endpoint.py
+── agent.py
+── detector.py
+── logger.py
+── analyzer.py
+── activity.log
+── README.md
 
 ## How AgentShield Works
 
